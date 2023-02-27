@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<mod name="Restoration" global_key="restoration">
+	<tweak definition="heat_deferred_postprocessor_tweak.xml"/>
+	<tweak definition="heat_defaultrendertemplates_tweak.xml"/>
+	<tweak definition="heat_postprocessor_tweak.xml"/>
+</mod>

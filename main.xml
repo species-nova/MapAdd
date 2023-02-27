@@ -1,0 +1,8 @@
+<table name="MapAdd" priority="1">
+<AddFiles directory="assets">
+	<texture path="core/textures/cg_halloween"/>
+	<texture path="core/textures/cg_force"/>
+	<texture path="core/textures/cg_plus"/>
+	<texture path="core/textures/cg_e3nice"/>
+</AddFiles>
+</table>

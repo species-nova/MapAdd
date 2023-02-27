@@ -1,0 +1,40 @@
+{
+ "name" : "MapAdd",
+ "description" : "",
+ "author" : "",
+ "contact" : "",
+ "version" : "11",
+ "priority" : 46,
+ "blt_version" : 2,
+ "image" : "res.png",
+ "undisablable" : true,
+ "disable_safe_mode" : false,
+ "pre_hooks" : [
+		{ "hook_id" : "lib/entry", "script_path" : "Corepre.lua" }
+    ],
+ "libraries" : [
+        {
+            "display_name" : "BeardLib",
+            "identifier" : "beardlib",
+            "optional" : "false"
+        }
+    ],
+	"hooks": [
+		{
+			"hook_id": "core/lib/managers/coresequencemanager",
+			"script_path": "CoreScriptData.lua"
+		},
+		{
+			"hook_id": "lib/network/matchmaking/networkmatchmakingsteam",
+			"script_path": "mmkey.lua"
+		},
+		{
+			"hook_id": "lib/units/props/timergui",
+			"script_path": "timergui.lua"
+		},
+		{
+			"hook_id": "lib/tweak_data/assetstweakdata",
+			"script_path": "assetstemp.lua"
+		}
+	]
+}
