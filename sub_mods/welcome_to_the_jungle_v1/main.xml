@@ -51,7 +51,7 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<narrative brief_id="heist_welcome_to_the_jungle_crimenet" briefing_event="elp_bigoil_brf" contact="the_elephant" debrief_event="elp_bigoil_debrief" icon="guis/dlcs/bro/textures/pd2/crimenet/bigoil_01" id="welcome_to_the_jungle_wrapper_prof" load_screen="guis/dlcs/pic/textures/loading/job_bigoil_01" name_id="heist_welcome_to_the_jungle">
+	<narrative brief_id="heist_welcome_to_the_jungle_crimenet" briefing_event="elp_bigoil_brf" contact="the_elephant" debrief_event="elp_bigoil_debrief" icon="guis/dlcs/bro/textures/pd2/crimenet/bigoil_01" id="welcome_to_the_jungle_wrapper_prof_remix" load_screen="guis/dlcs/pic/textures/loading/job_bigoil_01" name_id="heist_welcome_to_the_jungle_remix">
 		<chain>
 			<table level_id="stage_1" type="d" type_id="heist_type_assault" world_setting="day">
 				<mission_filter>
