@@ -561,4 +561,29 @@
 		<object path="units/payday2/architecture/ind/ind_ext_rollupgaragedoor_clean_a"/>
 		<unit path="units/payday2/architecture/ind/ind_ext_rollupgaragedoor_clean_a"/>
 	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_light_cone" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp_light_cone"/>
+		<object path="units/payday2/architecture/mkp/mkp_light_cone"/>
+		<unit path="units/payday2/architecture/mkp/mkp_light_cone"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks" type="unit">
+		<material_config path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks"/>
+		<object path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks"/>
+		<unit path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_blue_small" type="unit">
+		<material_config path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks"/>
+		<object path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_blue_small"/>
+		<unit path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_blue_small"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange" type="unit">
+		<material_config path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks"/>
+		<object path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange"/>
+		<unit path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange_v2" type="unit">
+		<unit path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange_v2"/>
+		<object path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange_v2"/>
+		<material_config path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks"/>
+	</add>
 </table>
