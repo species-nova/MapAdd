@@ -11,17 +11,7 @@ local environment_replacers = {
  		{ --Overcast
  			["environments/pd2_env_mid_day/pd2_env_mid_day"] = "scriptdata/cloudy_day.custom_xml"
  		}
- 	},
-	alex_1_res = {
-		{
-			["environments/pd2_env_rat_night/pd2_env_rat_night"] = "scriptdata/rat1.custom_xml"
-		}
-	},
-	alex_3_res = {
-		{
-			["environments/pd2_env_rat_night_stage_3/pd2_env_rat_night_stage_3"] = "scriptdata/rat3.custom_xml",
-		}
-	},
+ 	}
 	}
 
 --Checks the environment replacers table and replaces the environment if replacers are found.
