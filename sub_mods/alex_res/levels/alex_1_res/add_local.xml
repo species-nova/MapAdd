@@ -12,5 +12,6 @@
 	<continent path="interior_01/interior_01" script_data_type="binary"/>
 	<mission path="interior_01/interior_01" script_data_type="binary"/>
 	<cover_data path="cover_data" script_data_type="binary"/>
+	<texture path="cube_lights/300123"/>
 	<environment path="environments/alex_1_heat" script_data_type="custom_xml"/>
 </table>
