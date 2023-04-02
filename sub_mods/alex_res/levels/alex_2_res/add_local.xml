@@ -12,6 +12,7 @@
 	<continent path="editor_only/editor_only" script_data_type="binary"/>
 	<mission path="editor_only/editor_only" script_data_type="binary"/>
 	<cover_data path="cover_data" script_data_type="binary"/>
+	<environment path="environments/alex_2_heat" script_data_type="custom_xml"/>
 	<texture path="cube_lights/100142"/>
 	<texture path="cube_lights/101471"/>
 	<texture path="cube_lights/102633"/>
