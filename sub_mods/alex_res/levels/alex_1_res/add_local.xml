@@ -5,37 +5,13 @@
 	<nav_data path="nav_manager_data" script_data_type="binary"/>
 	<world_sounds path="world_sounds" script_data_type="binary"/>
 	<world_cameras path="world_cameras" script_data_type="binary"/>
-	<continent path="lighting_fixes/lighting_fixes" script_data_type="binary"/>
-	<mission path="lighting_fixes/lighting_fixes" script_data_type="binary"/>
-	<continent path="interior_01/interior_01" script_data_type="binary"/>
-	<mission path="interior_01/interior_01" script_data_type="binary"/>
-	<continent path="lightfx/lightfx" script_data_type="binary"/>
-	<mission path="lightfx/lightfx" script_data_type="binary"/>
 	<continent path="world/world" script_data_type="binary"/>
 	<mission path="world/world" script_data_type="binary"/>
 	<continent path="editor_only/editor_only" script_data_type="binary"/>
 	<mission path="editor_only/editor_only" script_data_type="binary"/>
+	<continent path="interior_01/interior_01" script_data_type="binary"/>
+	<mission path="interior_01/interior_01" script_data_type="binary"/>
 	<cover_data path="cover_data" script_data_type="binary"/>
-	<texture path="cube_lights/100780"/>
-	<texture path="cube_lights/100781"/>
-	<texture path="cube_lights/100777"/>
-	<texture path="cube_lights/100779"/>
-	<texture path="cube_lights/100314"/>
-	<texture path="cube_lights/102157"/>
-	<texture path="cube_lights/102156"/>
-	<texture path="cube_lights/300007"/>
-	<texture path="cube_lights/100766"/>
-	<texture path="cube_lights/100765"/>
-	<texture path="cube_lights/100757"/>
-	<texture path="cube_lights/100756"/>
-	<texture path="cube_lights/102153"/>
-	<texture path="cube_lights/102154"/>
-	<texture path="cube_lights/102152"/>
-	<texture path="cube_lights/102159"/>
-	<texture path="cube_lights/102161"/>
-	<texture path="cube_lights/102155"/>
-	<texture path="cube_lights/102160"/>
-	<texture path="cube_lights/102158"/>
 	<texture path="cube_lights/300123"/>
 	<environment path="environments/alex_1_heat" script_data_type="custom_xml"/>
 </table>

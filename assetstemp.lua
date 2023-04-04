@@ -1,8 +1,8 @@
-local mapadd_init_risk_assets = AssetsTweakData._init_risk_assets
+local old_init_risk_assets = AssetsTweakData._init_risk_assets
 function AssetsTweakData:_init_risk_assets(tweak_data)
-	mapadd_init_risk_assets(self, tweak_data)
+	old_init_risk_assets(self, tweak_data)
 	
-	--Rats D1 Zipline
+	--Alex 1 Zipline
 	self.alex_1_zipline = {}
 	self.alex_1_zipline.name_id = "menu_alex_1_zipline"
 	self.alex_1_zipline.texture = "guis/textures/pd2/mission_briefing/assets/alex_1_zipline"
@@ -14,7 +14,7 @@ function AssetsTweakData:_init_risk_assets(tweak_data)
 		"alex_1_res",
 	}
 	
-	--Ukrainian Job
+	--UK Job, Resmod edit
 	table.insert(self.safe_escape.stages, "ukrainian_job_res")
 	table.insert(self.bodybags_bag.stages, "ukrainian_job_res")
 	table.insert(self.sniper_spot_jewelery.stages, "ukrainian_job_res")
@@ -25,29 +25,29 @@ function AssetsTweakData:_init_risk_assets(tweak_data)
 	table.insert(self.ukrainian_job_shutter.stages, "ukrainian_job_res")
 	table.insert(self.security_safe_05x05.stages, "ukrainian_job_res")
 	
-	--Firestarter D1
+	--FS Day 1, Resmod edit
 	table.insert(self.grenade_crate.stages, "firestarter_1_res")
 	table.insert(self.sniper_spot_firestarter1.stages, "firestarter_1_res")
 	table.insert(self.firestarter_1_ammo.stages, "firestarter_1_res")
 	table.insert(self.firestarter_1_health.stages, "firestarter_1_res")
 	
-	--Firestarter D2
+	--FS Day 2, Resmod edit
 	table.insert(self.bodybags_bag.stages, "firestarter_2_res")
 	table.insert(self.spotter.stages, "firestarter_2_res")
 	table.insert(self.grenade_crate.stages, "firestarter_2_res")
 	table.insert(self.firestarter_2_cam.stages, "firestarter_2_res")	
 	
-	--Rats D1
+	--Rats Day 1, Resmod Edit
 	table.insert(self.grenade_crate.stages, "alex_1_res")		
 	table.insert(self.sniper_spot_rats1.stages, "alex_1_res")
 	table.insert(self.rat_1_ammo.stages, "alex_1_res")
 	table.insert(self.rat_1_health.stages, "alex_1_res")
 	table.insert(self.rat_1_lights.stages, "alex_1_res")
 	
-	--Rats D22
+	--Rats Day 2, Resmod Edit
 	--Nothing!
 	
-	--Rats D3
+	--Rats Day 3, Resmod Edit
 	table.insert(self.sniper_spot_rats3.stages, "alex_3_res")		
 	table.insert(self.rat_3_pilot.stages, "alex_3_res")
 	
