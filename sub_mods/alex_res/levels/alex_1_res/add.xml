@@ -172,5 +172,62 @@
 		<object path="units/world/props/mansion/man_cover_int_barrel/man_cover_int_barrel"/>
 		<unit path="units/world/props/mansion/man_cover_int_barrel/man_cover_int_barrel"/>
 	</add>
+	<add from_db="true" path="units/pd2_dlc_peta/architecture/pta_2/pta_barn" type="unit">
+		<material_config path="units/pd2_dlc_peta/architecture/pta_2/pta_barn"/>
+		<object path="units/pd2_dlc_peta/architecture/pta_2/pta_barn"/>
+		<unit path="units/pd2_dlc_peta/architecture/pta_2/pta_barn"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/western/wst_barn/wst_barn" type="unit">
+		<material_config path="units/world/architecture/western/wst_barn/wst_barn_mtr"/>
+		<object path="units/world/architecture/western/wst_barn/wst_barn"/>
+		<unit path="units/world/architecture/western/wst_barn/wst_barn"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower" type="unit">
+		<material_config path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower"/>
+		<object path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower"/>
+		<unit path="units/pd2_dlc_berry/props/bry_prop_moutain_powertower/bry_prop_mountain_powertower"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_red" type="unit">
+		<material_config path="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v1"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_red"/>
+		<unit path="units/pd2_dlc_dah/props/dah_prop_bkdrp_light_decals/dah_prop_bkdrp_light_decal_v3_red"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking" type="unit">
+		<effect load="true" path="effects/payday2/particles/flares/street_light_flare_big_round"/>
+		<material_config path="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_orange"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking"/>
+		<sequence_manager path="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking"/>
+		<unit path="units/pd2_dlc_dah/props/dah_prop_glow/dah_prop_glow_big_red_blinking"/>
+	</add>
+	<add from_db="true" path="units/world/props/construction_crane/construction_crane_01" type="unit">
+		<object path="units/world/props/construction_crane/construction_crane_01"/>
+		<sequence_manager path="units/world/props/construction_crane/construction_crane_01"/>
+		<unit path="units/world/props/construction_crane/construction_crane_01"/>
+	</add>
+	<add from_db="true" path="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_16m" type="unit">
+		<material_config path="units/world/environment/mansion/man_ground_ext/grasss"/>
+		<object path="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_16m"/>
+		<unit path="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_16m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_32m" type="unit">
+		<material_config path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground"/>
+		<object path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_32m"/>
+		<unit path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_32m"/>
+	</add>
+	<add from_db="true" path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_start" type="unit">
+		<material_config path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_near_bridgestone"/>
+		<object path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_start"/>
+		<unit path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_start"/>
+	</add>
+	<add from_db="true" path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_left" type="unit">
+		<material_config path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_near_bridgestone"/>
+		<object path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_left"/>
+		<unit path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_left"/>
+	</add>
+	<add from_db="true" path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed" type="unit">
+		<unit path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed"/>
+		<object path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed"/>
+		<material_config path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_near_bridgestone"/>
+	</add>
 	<texture path="levels/mods/alex_1_res/cube_lights/dome_occlusion"/>
 </table>
