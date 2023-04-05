@@ -225,9 +225,21 @@
 		<unit path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_left"/>
 	</add>
 	<add from_db="true" path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed" type="unit">
-		<unit path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed"/>
-		<object path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed"/>
 		<material_config path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_near_bridgestone"/>
+		<object path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed"/>
+		<unit path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange" type="unit">
+		<effect load="true" path="effects/payday2/particles/flares/small_lamp_flare"/>
+		<material_config path="units/payday2/props/gen_prop_glow/gen_prop_glow"/>
+		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange"/>
+		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2" type="unit">
+		<effect load="true" path="effects/payday2/particles/flares/small_lamp_orange_v2"/>
+		<material_config path="units/payday2/props/gen_prop_glow/gen_prop_glow"/>
+		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2"/>
+		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2"/>
 	</add>
 	<texture path="levels/mods/alex_1_res/cube_lights/dome_occlusion"/>
 </table>
