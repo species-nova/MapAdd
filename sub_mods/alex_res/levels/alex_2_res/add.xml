@@ -412,11 +412,6 @@
 		<object force="true" path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_rooms_3windows_floor_2_out_gap_right" unload="true"/>
 		<unit force="true" path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_rooms_3windows_floor_2_out_gap_right" unload="true"/>
 	</add>
-	<add path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_rooms_3windows_floor_3" type="unit">
-		<material_config force="true" path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_rooms" unload="true"/>
-		<object force="true" path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_rooms_3windows_floor_3" unload="true"/>
-		<unit force="true" path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_rooms_3windows_floor_3" unload="true"/>
-	</add>
 	<add path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_plastic_01" type="unit">
 		<material_config force="true" path="units/payday2/architecture/res_ext_apartment/rp_res_ext_apartment_plastic_01" unload="true"/>
 		<object force="true" path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_plastic_01" unload="true"/>
@@ -516,11 +511,6 @@
 		<object force="true" path="units/payday2/props/str_prop_construction_debris_b/str_prop_construction_debris_b" unload="true"/>
 		<unit force="true" path="units/payday2/props/str_prop_construction_debris_b/str_prop_construction_debris_b" unload="true"/>
 	</add>
-	<add path="units/payday2/props/str_prop_construction_container/str_prop_construction_container" type="unit">
-		<material_config force="true" path="units/payday2/props/str_prop_construction_container/str_prop_construction_container" unload="true"/>
-		<object force="true" path="units/payday2/props/str_prop_construction_container/str_prop_construction_container" unload="true"/>
-		<unit force="true" path="units/payday2/props/str_prop_construction_container/str_prop_construction_container" unload="true"/>
-	</add>
 	<add path="units/world/props/bridge/construction_blueprint/blueprint" type="unit">
 		<material_config force="true" path="units/world/props/bridge/construction_blueprint/blueprint" unload="true"/>
 		<object force="true" path="units/world/props/bridge/construction_blueprint/blueprint" unload="true"/>
@@ -552,8 +542,25 @@
 		<unit path="units/dev_tools/level_tools/navigation/navigation_splitter_02m"/>
 	</add>
 	<add from_db="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_doorway_splitter_2x3m" type="unit">
-		<unit path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_doorway_splitter_2x3m"/>
-		<object path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_doorway_splitter_2x3m"/>
 		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_doorway_splitter_2x3m"/>
+		<unit path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_doorway_splitter_2x3m"/>
+	</add>
+	<add from_db="true" path="units/pd2_indiana/props/mus_prop_bars/mus_prop_bars" type="unit">
+		<material_config path="units/pd2_indiana/architecture/mus_int_lab/mus_int_lab_door_01"/>
+		<object path="units/pd2_indiana/props/mus_prop_bars/mus_prop_bars"/>
+		<sequence_manager path="units/pd2_indiana/props/mus_prop_bars/mus_prop_bars"/>
+		<unit path="units/pd2_indiana/props/mus_prop_bars/mus_prop_bars"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flt_prop_decal_ground/flt_prop_decal_ground_grate3" type="unit">
+		<material_config path="units/pd2_dlc_flat/props/flt_prop_decal_ground/flt_prop_decal_ground_grate3"/>
+		<object path="units/pd2_dlc_flat/props/flt_prop_decal_ground/flt_prop_decal_ground_grate3"/>
+		<unit path="units/pd2_dlc_flat/props/flt_prop_decal_ground/flt_prop_decal_ground_grate3"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_int_gallery/com_int_gallery_wall_painting_bars" type="unit">
+		<object path="units/payday2/architecture/com_int_gallery/com_int_gallery_wall_painting_bars"/>
+		<physic_effect path="physic_effects/push_sphere"/>
+		<sequence_manager path="units/payday2/architecture/com_int_gallery/com_int_gallery_wall_painting_bars"/>
+		<unit path="units/payday2/architecture/com_int_gallery/com_int_gallery_wall_painting_bars"/>
 	</add>
 </table>

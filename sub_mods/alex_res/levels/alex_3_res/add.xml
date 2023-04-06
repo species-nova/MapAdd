@@ -89,4 +89,66 @@
 		<object force="true" path="units/payday2/architecture/air_backdrop/air_backdrop_v2" unload="true"/>
 		<unit force="true" path="units/payday2/architecture/air_backdrop/air_backdrop_v2" unload="true"/>
 	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_02_il" type="unit">
+		<unit path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_02_il"/>
+		<object path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_02_il"/>
+		<unit path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_02_il_debris"/>
+		<object path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_02_il_debris"/>
+		<effect load="true" path="effects/payday2/particles/flares/street_light_flare_big"/>
+		<material_config path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner"/>
+		<sequence_manager path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_d" type="unit">
+		<material_config path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_a"/>
+		<object path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_d"/>
+		<unit path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_d"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_c" type="unit">
+		<material_config path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_a"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<effect load="true" path="effects/payday2/particles/window/office_divider_glass"/>
+		<object path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_c"/>
+		<sequence_manager path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost"/>
+		<unit path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_c"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_b" type="unit">
+		<material_config path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_a"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<effect load="true" path="effects/payday2/particles/window/office_divider_glass"/>
+		<object path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_b"/>
+		<sequence_manager path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost"/>
+		<unit path="units/pd2_dlc_cage/props/ind_prop_cardealership_lamppost/ind_prop_cardealership_lamppost_b"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/str_prop_street_lamppost_trafficlight_a/str_prop_street_lamppost_trafficlight_a" type="unit">
+		<material_config path="units/pd2_dlc1/props/str_prop_street_lamppost_trafficlight_a/str_prop_street_lamppost_trafficlight_a"/>
+		<object path="units/pd2_dlc1/props/str_prop_street_lamppost_trafficlight_a/str_prop_street_lamppost_trafficlight_a"/>
+		<sequence_manager path="units/pd2_dlc1/props/str_prop_street_lamppost_trafficlight_a/str_prop_street_lamppost_trafficlight_a"/>
+		<unit path="units/pd2_dlc1/props/str_prop_street_lamppost_trafficlight_a/str_prop_street_lamppost_trafficlight_a"/>
+	</add>
+	<add from_db="true" path="units/world/props/airport/lamppost_four_lights/lamppost_four_lights" type="unit">
+		<material_config path="units/world/props/airport/lamppost_four_lights/lamppost_four_lights"/>
+		<object path="units/world/props/airport/lamppost_four_lights/lamppost_four_lights"/>
+		<unit path="units/world/props/airport/lamppost_four_lights/lamppost_four_lights"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost_gallery_b" type="unit">
+		<material_config path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost_gallery"/>
+		<object path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost_gallery_b"/>
+		<unit path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost_gallery_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost_b" type="unit">
+		<material_config path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost"/>
+		<object path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost_b"/>
+		<unit path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_lamppost_walksign/str_prop_street_lamppost_walksign" type="unit">
+		<material_config path="units/payday2/props/str_prop_street_lamppost_walksign/str_prop_street_lamppost_walksign"/>
+		<object path="units/payday2/props/str_prop_street_lamppost_walksign/str_prop_street_lamppost_walksign"/>
+		<unit path="units/payday2/props/str_prop_street_lamppost_walksign/str_prop_street_lamppost_walksign"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" type="unit">
+		<unit path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il"/>
+		<object path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il"/>
+		<material_config path="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner"/>
+		<effect load="true" path="effects/payday2/particles/flares/street_light_flare"/>
+	</add>
 </table>
