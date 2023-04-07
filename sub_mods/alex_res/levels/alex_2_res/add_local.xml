@@ -12,16 +12,12 @@
 	<continent path="editor_only/editor_only" script_data_type="binary"/>
 	<mission path="editor_only/editor_only" script_data_type="binary"/>
 	<cover_data path="cover_data" script_data_type="binary"/>
-	<texture path="cube_lights/103699"/>
-	<texture path="cube_lights/103584"/>
-	<texture path="cube_lights/101691"/>
-	<texture path="cube_lights/100137"/>
-	<texture path="cube_lights/100147"/>
-	<texture path="cube_lights/100077"/>
 	<environment path="environments/alex_2_heat" script_data_type="custom_xml"/>
 	<texture path="cube_lights/100142"/>
 	<texture path="cube_lights/101471"/>
 	<texture path="cube_lights/102633"/>
+	<texture path="cube_lights/100137"/>
+	<texture path="cube_lights/100147"/>
 	<texture path="cube_lights/100145"/>
 	<texture path="cube_lights/100109"/>
 	<texture path="cube_lights/100153"/>

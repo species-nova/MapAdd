@@ -241,20 +241,5 @@
 		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2"/>
 		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2"/>
 	</add>
-	<add from_db="true" path="units/world/props/street/concrete_barrier/concrete_barrier_stripes" type="unit">
-		<material_config path="units/world/props/street/concrete_barrier/concrete_barrier_stripes"/>
-		<object path="units/world/props/street/concrete_barrier/concrete_barrier_stripes"/>
-		<unit path="units/world/props/street/concrete_barrier/concrete_barrier_stripes"/>
-	</add>
-	<add from_db="true" path="units/world/street/concrete_barrier/concrete_barrier_01" type="unit">
-		<material_config path="units/world/street/concrete_barrier/concrete_barrier"/>
-		<object path="units/world/street/concrete_barrier/concrete_barrier_01"/>
-		<unit path="units/world/street/concrete_barrier/concrete_barrier_01"/>
-	</add>
-	<add from_db="true" path="units/world/street/concrete_barrier/concrete_barrier_small_01" type="unit">
-		<unit path="units/world/street/concrete_barrier/concrete_barrier_small_01"/>
-		<object path="units/world/street/concrete_barrier/concrete_barrier_small_01"/>
-		<material_config path="units/world/street/concrete_barrier/concrete_barrier"/>
-	</add>
 	<texture path="levels/mods/alex_1_res/cube_lights/dome_occlusion"/>
 </table>
