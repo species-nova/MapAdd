@@ -172,6 +172,11 @@
 		<object path="units/world/props/mansion/man_cover_int_barrel/man_cover_int_barrel"/>
 		<unit path="units/world/props/mansion/man_cover_int_barrel/man_cover_int_barrel"/>
 	</add>
+	<add from_db="true" path="units/pd2_dlc_peta/architecture/pta_2/pta_barn" type="unit">
+		<material_config path="units/pd2_dlc_peta/architecture/pta_2/pta_barn"/>
+		<object path="units/pd2_dlc_peta/architecture/pta_2/pta_barn"/>
+		<unit path="units/pd2_dlc_peta/architecture/pta_2/pta_barn"/>
+	</add>
 	<add from_db="true" path="units/world/architecture/western/wst_barn/wst_barn" type="unit">
 		<material_config path="units/world/architecture/western/wst_barn/wst_barn_mtr"/>
 		<object path="units/world/architecture/western/wst_barn/wst_barn"/>
@@ -209,6 +214,21 @@
 		<object path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_32m"/>
 		<unit path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_32m"/>
 	</add>
+	<add from_db="true" path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_start" type="unit">
+		<material_config path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_near_bridgestone"/>
+		<object path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_start"/>
+		<unit path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_start"/>
+	</add>
+	<add from_db="true" path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_left" type="unit">
+		<material_config path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_near_bridgestone"/>
+		<object path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_left"/>
+		<unit path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_left"/>
+	</add>
+	<add from_db="true" path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed" type="unit">
+		<material_config path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_near_bridgestone"/>
+		<object path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed"/>
+		<unit path="units/world/environment/train/vista/tra_backdrop_near_bridgestone/tra_backdrop_near_bridgestone_destroyed"/>
+	</add>
 	<add from_db="true" path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange" type="unit">
 		<effect load="true" path="effects/payday2/particles/flares/small_lamp_flare"/>
 		<material_config path="units/payday2/props/gen_prop_glow/gen_prop_glow"/>
@@ -220,21 +240,6 @@
 		<material_config path="units/payday2/props/gen_prop_glow/gen_prop_glow"/>
 		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2"/>
 		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2"/>
-	</add>
-	<add from_db="true" path="units/world/props/street/concrete_barrier/concrete_barrier_stripes" type="unit">
-		<material_config path="units/world/props/street/concrete_barrier/concrete_barrier_stripes"/>
-		<object path="units/world/props/street/concrete_barrier/concrete_barrier_stripes"/>
-		<unit path="units/world/props/street/concrete_barrier/concrete_barrier_stripes"/>
-	</add>
-	<add from_db="true" path="units/world/street/concrete_barrier/concrete_barrier_01" type="unit">
-		<material_config path="units/world/street/concrete_barrier/concrete_barrier"/>
-		<object path="units/world/street/concrete_barrier/concrete_barrier_01"/>
-		<unit path="units/world/street/concrete_barrier/concrete_barrier_01"/>
-	</add>
-	<add from_db="true" path="units/world/street/concrete_barrier/concrete_barrier_small_01" type="unit">
-		<material_config path="units/world/street/concrete_barrier/concrete_barrier"/>
-		<object path="units/world/street/concrete_barrier/concrete_barrier_small_01"/>
-		<unit path="units/world/street/concrete_barrier/concrete_barrier_small_01"/>
 	</add>
 	<texture path="levels/mods/alex_1_res/cube_lights/dome_occlusion"/>
 </table>
