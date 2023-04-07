@@ -1,5 +1,5 @@
 <table min_lib_ver="4.5" name="four_stores_remixed">
-	<level ai_group_type="america" briefing_dialog="Play_pln_fourstores_stage1_brief" cube="cube_apply_heist_bank" ghost_bonus="0.05" id="four_stores_remixed" intro_event="Play_pln_fourstores_stage1_intro_a" max_bags="5" music="heist">
+	<level ai_group_type="america" briefing_dialog="Play_pln_fourstores_stage1_brief" name_id="heist_four_stores_hl" brief_id="heist_four_stores_briefing" cube="cube_apply_heist_bank" ghost_bonus="0.05" id="four_stores_remixed" intro_event="Play_pln_fourstores_stage1_intro_a" max_bags="5" music="heist">
 		<assets/>
 		<outro_event>
 			<value_node value="Play_pln_fourstores_stage1_end_a"/>
@@ -18,7 +18,7 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="vld_fourstores_brf" contact="vlad" debrief_event="vld_fourstores_debrief" icon="guis/dlcs/bro/textures/pd2/crimenet/fourstores" id="four_stores_remixed" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_fourstores" max_mission_xp="6000" min_mission_xp="6000" region="street">
+	<narrative briefing_event="vld_fourstores_brf" contact="vlad" debrief_event="vld_fourstores_debrief" brief_id="heist_four_stores_crimenet" icon="guis/dlcs/bro/textures/pd2/crimenet/fourstores" id="four_stores_remixed" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_fourstores" max_mission_xp="6000" min_mission_xp="6000" region="street">
 		<chain>
 			<table level_id="four_stores_remixed" type="d" type_id="heist_type_assault"/>
 		</chain>
