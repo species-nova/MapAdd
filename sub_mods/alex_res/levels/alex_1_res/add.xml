@@ -252,15 +252,9 @@
 		<unit path="units/world/street/concrete_barrier/concrete_barrier_01"/>
 	</add>
 	<add from_db="true" path="units/world/street/concrete_barrier/concrete_barrier_small_01" type="unit">
-		<material_config path="units/world/street/concrete_barrier/concrete_barrier"/>
-		<object path="units/world/street/concrete_barrier/concrete_barrier_small_01"/>
 		<unit path="units/world/street/concrete_barrier/concrete_barrier_small_01"/>
-	</add>
-	<add from_db="true" path="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" type="unit">
-		<material_config path="core/material_configs/hub_elements"/>
-		<object path="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2"/>
-		<sequence_manager path="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2"/>
-		<unit path="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2"/>
+		<object path="units/world/street/concrete_barrier/concrete_barrier_small_01"/>
+		<material_config path="units/world/street/concrete_barrier/concrete_barrier"/>
 	</add>
 	<texture path="levels/mods/alex_1_res/cube_lights/dome_occlusion"/>
 </table>
