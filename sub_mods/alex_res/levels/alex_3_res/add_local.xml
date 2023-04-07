@@ -5,6 +5,7 @@
 	<nav_data path="nav_manager_data" script_data_type="binary"/>
 	<world_sounds path="world_sounds" script_data_type="binary"/>
 	<world_cameras path="world_cameras" script_data_type="binary"/>
+	<massunit path="massunit" reload="true"/>
 	<continent path="pc_only/pc_only" script_data_type="binary"/>
 	<mission path="pc_only/pc_only" script_data_type="binary"/>
 	<continent path="world/world" script_data_type="binary"/>
@@ -14,5 +15,27 @@
 	<continent path="editor_only/editor_only" script_data_type="binary"/>
 	<mission path="editor_only/editor_only" script_data_type="binary"/>
 	<cover_data path="cover_data" script_data_type="binary"/>
+	<texture path="cube_lights/100009"/>
+	<texture path="cube_lights/100007"/>
+	<texture path="cube_lights/100005"/>
+	<texture path="cube_lights/100004"/>
+	<texture path="cube_lights/100027"/>
+	<texture path="cube_lights/100965"/>
+	<texture path="cube_lights/100029"/>
+	<texture path="cube_lights/100964"/>
+	<texture path="cube_lights/100032"/>
+	<texture path="cube_lights/100963"/>
+	<texture path="cube_lights/100023"/>
+	<texture path="cube_lights/100136"/>
+	<texture path="cube_lights/101409"/>
+	<texture path="cube_lights/100137"/>
+	<texture path="cube_lights/101385"/>
+	<texture path="cube_lights/100011"/>
+	<texture path="cube_lights/100012"/>
+	<texture path="cube_lights/100014"/>
+	<texture path="cube_lights/100966"/>
+	<texture path="cube_lights/100010"/>
+	<texture path="cube_lights/100016"/>
+	<texture path="cube_lights/100015"/>
 	<environment path="environments/alex_3_heat" script_data_type="custom_xml"/>
 </table>
