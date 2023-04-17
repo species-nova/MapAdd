@@ -563,4 +563,107 @@
 		<sequence_manager path="units/payday2/architecture/com_int_gallery/com_int_gallery_wall_painting_bars"/>
 		<unit path="units/payday2/architecture/com_int_gallery/com_int_gallery_wall_painting_bars"/>
 	</add>
+	<add from_db="true" path="units/payday2/architecture/res/res_bdrop_02_il" type="unit">
+		<material_config path="units/payday2/architecture/res/res_bdrop_il"/>
+		<object path="units/payday2/architecture/res/res_bdrop_02_il"/>
+		<unit path="units/payday2/architecture/res/res_bdrop_02_il"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/res/res_bdrop_01_il" type="unit">
+		<material_config path="units/payday2/architecture/res/res_bdrop_il"/>
+		<object path="units/payday2/architecture/res/res_bdrop_01_il"/>
+		<unit path="units/payday2/architecture/res/res_bdrop_01_il"/>
+	</add>
+	<add>
+		<cooked_physics path="units/pd2_mod_custom/mockup/occluder_alex_2_remix" unload="true"/>
+		<model path="units/pd2_mod_custom/mockup/occluder_alex_2_remix" unload="true"/>
+		<object path="units/pd2_mod_custom/mockup/occluder_alex_2_remix" unload="true"/>
+		<unit path="units/pd2_mod_custom/mockup/occluder_alex_2_remix" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/hospital/props/rooftop/gutter_pipe/gutter_pipe_elbows_back" type="unit">
+		<material_config path="units/world/architecture/hospital/props/rooftop/props_rooftop"/>
+		<object path="units/world/architecture/hospital/props/rooftop/gutter_pipe/gutter_pipe_elbows_back"/>
+		<unit path="units/world/architecture/hospital/props/rooftop/gutter_pipe/gutter_pipe_elbows_back"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_ext_wall_2m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp"/>
+		<object path="units/payday2/architecture/mkp/mkp_ext_wall_2m_a"/>
+		<unit path="units/payday2/architecture/mkp/mkp_ext_wall_2m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/shadow_mullplan/mullplan_branchbank_round_small" type="unit">
+		<material_config path="units/payday2/props/shadow_mullplan/mullplan_branchbank"/>
+		<object path="units/payday2/props/shadow_mullplan/mullplan_branchbank_round_small"/>
+		<unit path="units/payday2/props/shadow_mullplan/mullplan_branchbank_round_small"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/props/sand_prop_facade_floodlight/sand_prop_facade_floodlight" type="unit">
+		<material_config path="units/pd2_dlc_sand/props/sand_prop_facade_floodlight/sand_prop_facade_floodlight"/>
+		<object path="units/pd2_dlc_sand/props/sand_prop_facade_floodlight/sand_prop_facade_floodlight"/>
+		<unit path="units/pd2_dlc_sand/props/sand_prop_facade_floodlight/sand_prop_facade_floodlight"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props/cs_assault/floodlight02" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props/cs_assault/floodlight02"/>
+		<object path="units/pd2_dlc2/csgo_models/props/cs_assault/floodlight02"/>
+		<unit path="units/pd2_dlc2/csgo_models/props/cs_assault/floodlight02"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_construction_light_flood/ind_prop_construction_light_flood" type="unit">
+		<material_config path="units/payday2/props/ind_prop_construction_light_flood/ind_prop_construction_light_flood"/>
+		<object path="units/payday2/props/ind_prop_construction_light_flood/ind_prop_construction_light_flood"/>
+		<sequence_manager path="units/payday2/props/ind_prop_construction_light_flood/ind_prop_construction_light_flood"/>
+		<unit path="units/payday2/props/ind_prop_construction_light_flood/ind_prop_construction_light_flood"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost_b" type="unit">
+		<material_config path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost"/>
+		<object path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost_b"/>
+		<unit path="units/payday2/props/str_prop_street_signs/str_prop_street_signs_lamppost_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_single_02_il" type="unit">
+		<effect load="true" path="effects/payday2/particles/flares/street_light_flare_big"/>
+		<material_config path="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost"/>
+		<object path="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_single_02_il"/>
+		<unit path="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_single_02_il"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/shadow_mullplan/mullplan_branchbank_checktable" type="unit">
+		<material_config path="units/payday2/props/shadow_mullplan/mullplan_branchbank"/>
+		<object path="units/payday2/props/shadow_mullplan/mullplan_branchbank_checktable"/>
+		<unit path="units/payday2/props/shadow_mullplan/mullplan_branchbank_checktable"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/shadow_mullplan/mullplan_branchbank_chair_single" type="unit">
+		<material_config path="units/payday2/props/shadow_mullplan/mullplan_branchbank"/>
+		<object path="units/payday2/props/shadow_mullplan/mullplan_branchbank_chair_single"/>
+		<unit path="units/payday2/props/shadow_mullplan/mullplan_branchbank_chair_single"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/shadow_mullplan/mullplan_branchbank_table_a" type="unit">
+		<material_config path="units/payday2/props/shadow_mullplan/mullplan_branchbank"/>
+		<object path="units/payday2/props/shadow_mullplan/mullplan_branchbank_table_a"/>
+		<unit path="units/payday2/props/shadow_mullplan/mullplan_branchbank_table_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/shadow_mullplan/mullplan_displaycase_single" type="unit">
+		<material_config path="units/payday2/props/shadow_mullplan/mullplan_branchbank"/>
+		<object path="units/payday2/props/shadow_mullplan/mullplan_displaycase_single"/>
+		<unit path="units/payday2/props/shadow_mullplan/mullplan_displaycase_single"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/shadow_mullplan/nmh_mullplan_chair_01" type="unit">
+		<material_config path="units/payday2/props/shadow_mullplan/mullplan_branchbank"/>
+		<object path="units/payday2/props/shadow_mullplan/nmh_mullplan_chair_01"/>
+		<unit path="units/payday2/props/shadow_mullplan/nmh_mullplan_chair_01"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/shadow_mullplan/nmh_mullplan_small_light_01" type="unit">
+		<material_config path="units/payday2/props/shadow_mullplan/mullplan_vehicle"/>
+		<object path="units/payday2/props/shadow_mullplan/nmh_mullplan_small_light_01"/>
+		<unit path="units/payday2/props/shadow_mullplan/nmh_mullplan_small_light_01"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/shadow_mullplan/nmh_mullplan_small_light_02" type="unit">
+		<material_config path="units/payday2/props/shadow_mullplan/mullplan_vehicle"/>
+		<object path="units/payday2/props/shadow_mullplan/nmh_mullplan_small_light_02"/>
+		<unit path="units/payday2/props/shadow_mullplan/nmh_mullplan_small_light_02"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/shadow_mullplan/mullplan_vehicle" type="unit">
+		<unit path="units/payday2/props/shadow_mullplan/mullplan_vehicle"/>
+		<object path="units/payday2/props/shadow_mullplan/mullplan_vehicle"/>
+		<material_config path="units/payday2/props/shadow_mullplan/mullplan_vehicle"/>
+	</add>
 </table>

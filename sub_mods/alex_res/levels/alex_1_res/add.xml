@@ -6,6 +6,14 @@
 		<sequence_manager force="true" path="units/world/props/flickering_light/flickering_light" unload="true"/>
 		<unit force="true" path="units/world/props/flickering_light/flickering_light" unload="true"/>
 	</add>
+	<add>
+		<cooked_physics path="units/pd2_mod_e3/props/e3_calendar/e3_calendar" unload="true"/>
+		<material_config path="units/pd2_mod_e3/props/e3_calendar/e3_calendar" unload="true"/>
+		<model path="units/pd2_mod_e3/props/e3_calendar/e3_calendar" unload="true"/>
+		<object path="units/pd2_mod_e3/props/e3_calendar/e3_calendar" unload="true"/>
+		<texture path="units/pd2_mod_e3/props/e3_calendar/e3_calendar_df" unload="true"/>
+		<unit path="units/pd2_mod_e3/props/e3_calendar/e3_calendar" unload="true"/>
+	</add>
 	<add path="core/units/light_omni_seq/light_omni_seq" type="unit">
 		<material_config force="true" path="core/material_configs/hub_elements" unload="true"/>
 		<object force="true" path="core/units/light_omni_seq/light_omni_seq" unload="true"/>
@@ -235,6 +243,11 @@
 		<material_config path="units/world/street/concrete_barrier/concrete_barrier"/>
 		<object path="units/world/street/concrete_barrier/concrete_barrier_small_01"/>
 		<unit path="units/world/street/concrete_barrier/concrete_barrier_small_01"/>
+	</add>
+	<add from_db="true" path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_medium_1" type="unit">
+		<unit path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_medium_1"/>
+		<object path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_medium_1"/>
+		<material_config path="units/world/props/mansion/man_prop_int_pictures/pictures2"/>
 	</add>
 	<texture path="levels/mods/alex_1_res/cube_lights/dome_occlusion"/>
 </table>
