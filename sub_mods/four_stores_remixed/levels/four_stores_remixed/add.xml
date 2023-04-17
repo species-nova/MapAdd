@@ -947,4 +947,54 @@
 		<object path="units/world/brushes/grafitti/brush_poster_02"/>
 		<unit path="units/world/brushes/grafitti/brush_poster_02"/>
 	</add>
+	<add from_db="true" path="units/pd2_dlc_fish/lxy_prop_bookcase/lxy_prop_bookcase_middle_01" type="unit">
+		<material_config path="units/pd2_dlc_fish/lxy_prop_bookcase/lxy_prop_bookcase_middle_01"/>
+		<object path="units/pd2_dlc_fish/lxy_prop_bookcase/lxy_prop_bookcase_middle_01"/>
+		<unit path="units/pd2_dlc_fish/lxy_prop_bookcase/lxy_prop_bookcase_middle_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_friend/props/sfm_prop_library_bookcase/sfm_prop_bookcase_middle_01" type="unit">
+		<material_config path="units/pd2_dlc_friend/props/sfm_prop_library_bookcase/sfm_prop_bookcase_end_left_01"/>
+		<object path="units/pd2_dlc_friend/props/sfm_prop_library_bookcase/sfm_prop_bookcase_middle_01"/>
+		<unit path="units/pd2_dlc_friend/props/sfm_prop_library_bookcase/sfm_prop_bookcase_middle_01"/>
+	</add>
+	<add from_db="true" path="units/world/props/bookcase/bookshelf_a" type="unit">
+		<material_config path="units/world/props/bookcase/bookshelf_a"/>
+		<object path="units/world/props/bookcase/bookshelf_a"/>
+		<unit path="units/world/props/bookcase/bookshelf_a"/>
+	</add>
+	<add from_db="true" path="units/world/props/bookcase/bookshelf_a_var" type="unit">
+		<material_config path="units/world/props/bookcase/bookshelf_a"/>
+		<object path="units/world/props/bookcase/bookshelf_a_var"/>
+		<unit path="units/world/props/bookcase/bookshelf_a_var"/>
+	</add>
+	<add from_db="true" path="units/world/props/western/wst_prop_int_painting/wst_prop_int_painting_a" type="unit">
+		<material_config path="units/world/props/western/wst_prop_int_painting/wst_prop_int_painting"/>
+		<object path="units/world/props/western/wst_prop_int_painting/wst_prop_int_painting_a"/>
+		<unit path="units/world/props/western/wst_prop_int_painting/wst_prop_int_painting_a"/>
+	</add>
+	<add from_db="true" path="units/world/props/western/wst_prop_int_painting/wst_prop_int_painting_b" type="unit">
+		<material_config path="units/world/props/western/wst_prop_int_painting/wst_prop_int_painting"/>
+		<object path="units/world/props/western/wst_prop_int_painting/wst_prop_int_painting_b"/>
+		<unit path="units/world/props/western/wst_prop_int_painting/wst_prop_int_painting_b"/>
+	</add>
+	<add from_db="true" path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_big_2" type="unit">
+		<material_config path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_big_1"/>
+		<object path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_big_2"/>
+		<unit path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_big_2"/>
+	</add>
+	<add from_db="true" path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_big_1" type="unit">
+		<material_config path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_big_1"/>
+		<object path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_big_1"/>
+		<unit path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_big_1"/>
+	</add>
+	<add from_db="true" path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_medium_1" type="unit">
+		<material_config path="units/world/props/mansion/man_prop_int_pictures/pictures2"/>
+		<object path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_medium_1"/>
+		<unit path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_medium_1"/>
+	</add>
+	<add from_db="true" path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_medium_2" type="unit">
+		<unit path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_medium_2"/>
+		<object path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_medium_2"/>
+		<material_config path="units/world/props/mansion/man_prop_int_pictures/man_prop_int_picture_big_1"/>
+	</add>
 </table>

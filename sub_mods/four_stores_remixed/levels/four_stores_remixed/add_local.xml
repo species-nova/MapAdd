@@ -15,6 +15,14 @@
 	<continent path="editor_only/editor_only" script_data_type="binary"/>
 	<mission path="editor_only/editor_only" script_data_type="binary"/>
 	<cover_data path="cover_data" script_data_type="binary"/>
+	<environment path="environments/four_stores_remixed_v3" script_data_type="custom_xml"/>
+	<texture path="cube_lights/101764"/>
+	<texture path="cube_lights/101769"/>
+	<texture path="cube_lights/102218"/>
+	<texture path="cube_lights/102215"/>
+	<texture path="cube_lights/102212"/>
+	<texture path="cube_lights/103432"/>
+	<environment path="environments/four_stores_remixed_v2" script_data_type="custom_xml"/>
 	<texture path="cube_lights/102020"/>
 	<texture path="cube_lights/102021"/>
 	<texture path="cube_lights/102019"/>
@@ -74,7 +82,6 @@
 	<texture path="cube_lights/103045"/>
 	<texture path="cube_lights/101009"/>
 	<texture path="cube_lights/102055"/>
-	<texture path="cube_lights/103432"/>
 	<texture path="cube_lights/100967"/>
 	<texture path="cube_lights/103046"/>
 	<texture path="cube_lights/dome_occlusion"/>
