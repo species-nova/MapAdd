@@ -44,7 +44,7 @@ function AssetsTweakData:_init_risk_assets(tweak_data)
 	table.insert(self.rat_1_health.stages, "alex_1_res")
 	table.insert(self.rat_1_lights.stages, "alex_1_res")
 	
-	--Rats D22
+	--Rats D2
 	--Nothing!
 	
 	--Rats D3
