@@ -1,0 +1,6 @@
+<materials version="3">
+    <material version="2" render_template="decal:DIFFUSE_TEXTURE:OPACITY_TEXTURE" name="str_prop_alley_graffiti_ishwah_mat">
+        <diffuse_texture file="units/pd2_mod_e3/props/graffiti/graffiti_eden_df"/>
+        <opacity_texture file="units/pd2_mod_e3/props/graffiti/graffiti_eden_op"/>
+    </material>
+</materials>

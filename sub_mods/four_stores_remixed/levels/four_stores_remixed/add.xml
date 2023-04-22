@@ -162,6 +162,7 @@
 		<unit load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
 		<model force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
 		<object force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
+		<sequence_manager force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
 		<material_config force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
 		<cooked_physics force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
 		<texture force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>

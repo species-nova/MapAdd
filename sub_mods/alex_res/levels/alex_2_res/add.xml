@@ -662,8 +662,137 @@
 		<unit path="units/payday2/props/shadow_mullplan/nmh_mullplan_small_light_02"/>
 	</add>
 	<add from_db="true" path="units/payday2/props/shadow_mullplan/mullplan_vehicle" type="unit">
-		<unit path="units/payday2/props/shadow_mullplan/mullplan_vehicle"/>
-		<object path="units/payday2/props/shadow_mullplan/mullplan_vehicle"/>
 		<material_config path="units/payday2/props/shadow_mullplan/mullplan_vehicle"/>
+		<object path="units/payday2/props/shadow_mullplan/mullplan_vehicle"/>
+		<unit path="units/payday2/props/shadow_mullplan/mullplan_vehicle"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_answer" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_answer"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_answer"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_answer"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_7200" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_7200"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_7200"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_7200"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_buff" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_buff"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_buff"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_buff"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_creatures" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_creatures"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_creatures"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_creatures"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_gefilte_fish" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_gefilte_fish"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_gefilte_fish"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_gefilte_fish"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_heist" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_heist"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_heist"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_heist"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_naohspree" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_naohspree"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_naohspree"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_naohspree"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_nhk" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_nhk"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_nhk"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_nhk"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tcn" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tcn"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tcn"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tcn"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_team_heist" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_team_heist"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_team_heist"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_team_heist"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tse" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tse"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tse"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tse"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_team_evil" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_team_evil"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_team_evil"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_team_evil"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tse_core" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tse_core"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tse_core"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_tse_core"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_ww" type="unit">
+		<material_config path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_ww"/>
+		<object path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_ww"/>
+		<unit path="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_ww"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_alley_graffiti_ishwah" type="unit">
+		<material_config path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_alley_graffiti_ishwah"/>
+		<object path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_alley_graffiti_ishwah"/>
+		<unit path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_alley_graffiti_ishwah"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffiti_unknown_01" type="unit">
+		<material_config path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffiti_unknown_01"/>
+		<object path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffiti_unknown_01"/>
+		<unit path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffiti_unknown_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_bginistag" type="unit">
+		<material_config path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_bginistag"/>
+		<object path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_bginistag"/>
+		<unit path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_bginistag"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_bginisthrow" type="unit">
+		<material_config path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_bginisthrow"/>
+		<object path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_bginisthrow"/>
+		<unit path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_bginisthrow"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_chainsgoldmask" type="unit">
+		<material_config path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_chainsgoldmask"/>
+		<object path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_chainsgoldmask"/>
+		<unit path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_chainsgoldmask"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_coldbloodedpiece" type="unit">
+		<material_config path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_coldbloodedpiece"/>
+		<object path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_coldbloodedpiece"/>
+		<unit path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_coldbloodedpiece"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidethrow" type="unit">
+		<material_config path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidethrow"/>
+		<object path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidethrow"/>
+		<unit path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidethrow"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_gangstercharacter" type="unit">
+		<material_config path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_gangstercharacter"/>
+		<object path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_gangstercharacter"/>
+		<unit path="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_gangstercharacter"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/props/mex_prop_graffiti_tags/mex_prop_graffiti_tags_02" type="unit">
+		<material_config path="units/pd2_dlc_mex/props/mex_prop_graffiti_tags/mex_prop_graffiti_tags_02"/>
+		<object path="units/pd2_dlc_mex/props/mex_prop_graffiti_tags/mex_prop_graffiti_tags_02"/>
+		<unit path="units/pd2_dlc_mex/props/mex_prop_graffiti_tags/mex_prop_graffiti_tags_02"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_spa/props/spa_props_graffiti_tags/spa_props_graffiti_tags_rower" type="unit">
+		<unit path="units/pd2_dlc_spa/props/spa_props_graffiti_tags/spa_props_graffiti_tags_rower"/>
+		<object path="units/pd2_dlc_spa/props/spa_props_graffiti_tags/spa_props_graffiti_tags_rower"/>
+		<material_config path="units/pd2_dlc_spa/props/spa_props_graffiti_tags/spa_props_graffiti_tags"/>
+	</add>
+	<add>
+		<cooked_physics path="units/pd2_mod_e3/props/graffiti/graffiti_eden" unload="true"/>
+		<material_config path="units/pd2_mod_e3/props/graffiti/graffiti_eden" unload="true"/>
+		<model path="units/pd2_mod_e3/props/graffiti/graffiti_eden" unload="true"/>
+		<object path="units/pd2_mod_e3/props/graffiti/graffiti_eden" unload="true"/>
+		<texture path="units/pd2_mod_e3/props/graffiti/graffiti_eden_df" unload="true"/>
+		<texture path="units/pd2_mod_e3/props/graffiti/graffiti_eden_op" unload="true"/>
+		<unit path="units/pd2_mod_e3/props/graffiti/graffiti_eden" unload="true"/>
 	</add>
 </table>

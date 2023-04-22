@@ -48,10 +48,6 @@
 					</shadow_modifier>
 				</shadow_rendering>
 			</shadow_processor>
-			<fog_processor>
-			</fog_processor>
-			<hdr_post_processor>
-			</hdr_post_processor>
 			<bloom_combine_post_processor>
 				<bloom_combine>
 					<bloom_lense>
@@ -64,10 +60,10 @@
 		</post_effect>
 		<underlay_effect>
 			<sky>
-				<param key="color0" value="0 0 0.082352943718433"/>
+				<param key="color0" value="0.30196079611778 0 0"/>
 				<param key="color2" value="1 0.8156863451004 0.49803924560547"/>
 				<param key="color2_scale" value="0"/>
-				<param key="color0_scale" value="0.24697142839432"/>
+				<param key="color0_scale" value="-0.25499999523163"/>
 			</sky>
 		</underlay_effect>
 		<environment_effects>

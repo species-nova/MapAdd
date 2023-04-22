@@ -622,4 +622,63 @@
 	<model path="units/world/props/red_diamond_room/big_red_security_door" unload="true"/>
 	<object path="units/world/props/red_diamond_room/big_red_security_door" unload="true"/>
 	<sequence_manager path="units/world/props/red_diamond_room/big_red_security_door" unload="true"/>
+	<add>
+		<cooked_physics path="units/pd2_mod_custom/props/str_prop_street_signs/str_prop_street_signs_lamppost_a" unload="true"/>
+		<model path="units/pd2_mod_custom/props/str_prop_street_signs/str_prop_street_signs_lamppost_a" unload="true"/>
+		<object path="units/pd2_mod_custom/props/str_prop_street_signs/str_prop_street_signs_lamppost_a" unload="true"/>
+		<unit path="units/pd2_mod_custom/props/str_prop_street_signs/str_prop_street_signs_lamppost_a" unload="true"/>
+		<cooked_physics path="units/pd2_mod_custom/props/str_prop_street_signs/str_prop_street_signs_lamppost_b" unload="true"/>
+		<model path="units/pd2_mod_custom/props/str_prop_street_signs/str_prop_street_signs_lamppost_b" unload="true"/>
+		<object path="units/pd2_mod_custom/props/str_prop_street_signs/str_prop_street_signs_lamppost_b" unload="true"/>
+		<unit path="units/pd2_mod_custom/props/str_prop_street_signs/str_prop_street_signs_lamppost_b" unload="true"/>
+		<material_config path="units/pd2_mod_custom/props/str_prop_street_signs/str_prop_street_signs_lamppost" unload="true"/>
+		<texture path="units/pd2_mod_custom/props/str_prop_street_signs/str_prop_street_signs_lamppost_df" unload="true"/>
+	</add>
+	<add>
+		<cooked_physics path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_far_trees_02" unload="true"/>
+		<material_config path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_far_trees_02" unload="true"/>
+		<model path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_far_trees_02" unload="true"/>
+		<object path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_far_trees_02" unload="true"/>
+		<texture path="units/pd2_mod_custom/architecture/hcm/vegetation_green_df" unload="true"/>
+		<unit path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_far_trees_02" unload="true"/>
+	</add>
+	<add>
+		<unit path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_mid_road_straight16x16_v2" unload="true"/>
+		<object path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_mid_road_straight16x16_v2" unload="true"/>
+		<model path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_mid_road_straight16x16_v2" unload="true"/>
+		<cooked_physics path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_mid_road_straight16x16_v2" unload="true"/>
+		<unit path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_mid_road_tcrossing_16x16_v2" unload="true"/>
+		<object path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_mid_road_tcrossing_16x16_v2" unload="true"/>
+		<model path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_mid_road_tcrossing_16x16_v2" unload="true"/>
+		<cooked_physics path="units/pd2_mod_custom/architecture/hcm/hcm_bdrop_mid_road_tcrossing_16x16_v2" unload="true"/>
+		<material_config path="units/pd2_mod_custom/architecture/hcm/hcm_backdrop_street_v2" unload="true"/>
+		<texture path="units/pd2_mod_custom/architecture/hcm/vegetation_green_df" unload="true"/>
+	</add>
+	<add>
+		<unit load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
+		<model force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
+		<object force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
+		<sequence_manager force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
+		<material_config force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
+		<cooked_physics force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
+		<texture force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_01" unload="true"/>
+		<unit load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02" unload="true"/>
+		<model force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02" unload="true"/>
+		<object force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02" unload="true"/>
+		<material_config load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02" unload="true"/>
+		<cooked_physics force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02" unload="true"/>
+		<texture load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02" unload="true"/>
+		<unit load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v2" unload="true"/>
+		<model force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v2" unload="true"/>
+		<object force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v2" unload="true"/>
+		<material_config load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v2" unload="true"/>
+		<cooked_physics force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v2" unload="true"/>
+		<texture load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v2" unload="true"/>
+		<unit load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v3" unload="true"/>
+		<model force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v3" unload="true"/>
+		<object force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v3" unload="true"/>
+		<material_config load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v3" unload="true"/>
+		<cooked_physics force="false" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v3" unload="true"/>
+		<texture load="true" path="units/payday2/props/str_prop_street_sign_roof_gh/str_prop_street_sign_roof_gh_02_v3" unload="true"/>
+	</add>
 </table>

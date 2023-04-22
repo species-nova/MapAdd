@@ -582,8 +582,22 @@
 		<unit path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange"/>
 	</add>
 	<add from_db="true" path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange_v2" type="unit">
-		<unit path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange_v2"/>
-		<object path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange_v2"/>
 		<material_config path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks"/>
+		<object path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange_v2"/>
+		<unit path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_orange_v2"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" type="unit">
+		<unit path="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon"/>
+		<object path="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon"/>
+		<material_config path="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon"/>
+		<font path="fonts/font_caslon"/>
+	</add>
+	<add>
+		<cooked_physics path="units/pd2_mod_e3/props/e3_calendar/e3_calendar" unload="true"/>
+		<material_config path="units/pd2_mod_e3/props/e3_calendar/e3_calendar" unload="true"/>
+		<model path="units/pd2_mod_e3/props/e3_calendar/e3_calendar" unload="true"/>
+		<object path="units/pd2_mod_e3/props/e3_calendar/e3_calendar" unload="true"/>
+		<texture path="units/pd2_mod_e3/props/e3_calendar/e3_calendar_df" unload="true"/>
+		<unit path="units/pd2_mod_e3/props/e3_calendar/e3_calendar" unload="true"/>
 	</add>
 </table>

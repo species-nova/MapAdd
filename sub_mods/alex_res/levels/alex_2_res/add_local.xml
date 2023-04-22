@@ -1,8 +1,8 @@
 <table>
-	<nav_data path="nav_manager_data" script_data_type="binary"/>
 	<world path="world" script_data_type="binary"/>
 	<continents path="continents" script_data_type="binary"/>
 	<mission path="mission" script_data_type="binary"/>
+	<nav_data path="nav_manager_data" script_data_type="binary"/>
 	<world_sounds path="world_sounds" script_data_type="binary"/>
 	<world_cameras path="world_cameras" script_data_type="binary"/>
 	<massunit path="massunit" reload="true"/>
@@ -10,6 +10,8 @@
 	<mission path="lighting_fixes/lighting_fixes" script_data_type="binary"/>
 	<continent path="pc_only/pc_only" script_data_type="binary"/>
 	<mission path="pc_only/pc_only" script_data_type="binary"/>
+	<continent path="tags/tags" script_data_type="binary"/>
+	<mission path="tags/tags" script_data_type="binary"/>
 	<continent path="world/world" script_data_type="binary"/>
 	<mission path="world/world" script_data_type="binary"/>
 	<continent path="editor_only/editor_only" script_data_type="binary"/>
