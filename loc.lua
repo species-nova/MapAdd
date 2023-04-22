@@ -16,7 +16,7 @@ Hooks:Add("LocalizationManagerPostInit", "Remix_Localization", function(loc)
 		["heist_easy_store_remix_name"] = "Twenty-Four-Seven: Remixed", --teehee
 		
 		["menu_alex_1_zipline"] = "Bag Zipline",
-		["menu_alex_1_zipline_desec"] = "Pay Hector's cooks for a bag zipline."
+		["menu_alex_1_zipline_desc"] = "Pay Hector's cooks for a bag zipline."
 	})
 end)
 
