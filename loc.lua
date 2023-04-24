@@ -6,6 +6,7 @@ Hooks:Add("LocalizationManagerPostInit", "Remix_Localization", function(loc)
 		["heist_welcome_to_the_jungle_remix"] = "Big Oil: Remixed",
 		["heist_four_stores_remixed_name"] = "Four Stores: Remixed",
 		["heist_ukrainian_job_remix"] = "Ukrainian Job: Remixed",
+		["heist_jewelry_store_remix_name"] = "Jewelry Store: Remixed",
 		["heist_nightclub_remix_name"] = "Nightclub: Remixed",
 		["heist_watchdogs_remix_name"] = "Watchdogs: Remixed",
 		["heist_framing_frame_remix_name"] = "Framing Frame: Remixed",
@@ -16,7 +17,7 @@ Hooks:Add("LocalizationManagerPostInit", "Remix_Localization", function(loc)
 		["heist_easy_store_remix_name"] = "Twenty-Four-Seven: Remixed", --teehee
 		
 		["menu_alex_1_zipline"] = "Bag Zipline",
-		["menu_alex_1_zipline_desc"] = "Pay Hector's cooks for a bag zipline."
+		["menu_alex_1_zipline_desc"] = "Pay Hector's cooks for a bag zipline back to the van area."
 	})
 end)
 

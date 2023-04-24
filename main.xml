@@ -5,5 +5,8 @@
 	<texture path="core/textures/cg_plus"/>
 	<texture path="core/textures/cg_e3nice"/>
 	<texture path="guis/textures/pd2/mission_briefing/assets/alex_1_zipline"/>
+	<texture path="guis/dlcs/pro/textures/pd2/crimenet/firestarter_01"/>
+	<texture path="guis/dlcs/pro/textures/pd2/crimenet/rats_01"/>
+	<texture path="guis/dlcs/pro/textures/pd2/crimenet/fourstores"/>
 </AddFiles>
 </table>

@@ -718,4 +718,11 @@
 		<sequence_manager path="units/payday2/equipment/gen_interactable_zipline/gen_interactable_zipline_mount_ground"/>
 		<unit path="units/payday2/equipment/gen_interactable_zipline/gen_interactable_zipline_mount_ground"/>
 	</add>
+	<add from_db="true" path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher" type="unit">
+		<unit path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
+		<object path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
+		<material_config path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
+		<sequence_manager path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+	</add>
 </table>

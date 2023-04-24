@@ -18,7 +18,7 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="vld_fourstores_brf" contact="vlad" debrief_event="vld_fourstores_debrief" brief_id="heist_four_stores_crimenet" icon="guis/dlcs/bro/textures/pd2/crimenet/fourstores" id="four_stores_remixed" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_fourstores" max_mission_xp="6000" min_mission_xp="6000" region="street">
+	<narrative briefing_event="vld_fourstores_brf" contact="vlad" debrief_event="vld_fourstores_debrief" brief_id="heist_four_stores_crimenet" icon="guis/dlcs/pro/textures/pd2/crimenet/fourstores" id="four_stores_remixed" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_fourstores" max_mission_xp="6000" min_mission_xp="6000" region="street">
 		<chain>
 			<table level_id="four_stores_remixed" type="d" type_id="heist_type_assault"/>
 		</chain>
