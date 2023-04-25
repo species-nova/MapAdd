@@ -750,9 +750,9 @@
 		<unit path="units/payday2/props/bnk_prop_security_moneycounter/spawn_bucket_of_money"/>
 	</add>
 	<add from_db="true" path="units/payday2/props/bnk_prop_security_moneyscanner/spawn_moneyscanner_cassete" type="unit">
-		<unit path="units/payday2/props/bnk_prop_security_moneyscanner/spawn_moneyscanner_cassete"/>
-		<object path="units/payday2/props/bnk_prop_security_moneyscanner/spawn_moneyscanner_cassete"/>
 		<material_config path="units/payday2/props/bnk_prop_security_moneyscanner/bnk_prop_security_moneyscanner"/>
+		<object path="units/payday2/props/bnk_prop_security_moneyscanner/spawn_moneyscanner_cassete"/>
 		<sequence_manager path="units/payday2/props/bnk_prop_security_moneyscanner/spawn_moneyscanner_cassete"/>
+		<unit path="units/payday2/props/bnk_prop_security_moneyscanner/spawn_moneyscanner_cassete"/>
 	</add>
 </table>
