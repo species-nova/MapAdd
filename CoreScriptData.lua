@@ -51,7 +51,28 @@ local skies = {
 	"sky_2100_moon",
 	"sky_1313_cloudy_dark",
 	"sky_2003_dusk_blue",
-	"sky_2003_dusk_blue_high_color_scale"
+	"sky_2003_dusk_blue_high_color_scale",
+	--4/28/2023, added all skies below this line.  THIS IS NOT OPTIMIZED!  THIS IS FOR TESTING!
+	--IT'S FINE TO SHIP THIS, BUT FIND A BETTER SOLUTION ASAP
+	"sky_0902_overcast_dark",
+	"sky_1044_overcast_sun",
+	"sky_1224_clear_sky",
+	"sky_1313_cloudy",
+	"sky_1345_clear_sky_mountain_01",
+	"sky_1530_low_sun_clouds",
+	"sky_1830_low_sun_clouds",
+	"sky_1931_low_sun",
+	"sky_1945_sunset",
+	"sky_1945_sunset_clouds",
+	"sky_2003_sunrise",
+	"sky_277_dusk",
+	"sky_279_dusk",
+	"sky_city_clear",
+	"sky_city_clear_high",
+	"sky_cloudy_blue",
+	"sky_csgo_de_bank_cs15_daylight02",
+	"sky_dah_night",
+	"sky_v2_030_sun_low"
 }
 
 Hooks:Add("BeardLibPreProcessScriptData", "RestorationCreateEnvironment", function(PackManager, path, raw_data)
