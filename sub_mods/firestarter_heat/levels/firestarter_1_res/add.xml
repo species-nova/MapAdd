@@ -719,10 +719,187 @@
 		<unit path="units/payday2/equipment/gen_interactable_zipline/gen_interactable_zipline_mount_ground"/>
 	</add>
 	<add from_db="true" path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher" type="unit">
-		<unit path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
-		<object path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
 		<material_config path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
-		<sequence_manager path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
 		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<object path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
+		<sequence_manager path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
+		<unit path="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref_bag_catcher"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/hcm/hcm_int_wall_2m_a_glass_cell" type="unit">
+		<unit path="units/payday2/architecture/hcm/hcm_int_wall_2m_a_glass_cell"/>
+		<object path="units/payday2/architecture/hcm/hcm_int_wall_2m_a_glass_cell"/>
+		<material_config path="units/payday2/architecture/hcm/hcm_int"/>
+		<sequence_manager path="units/payday2/architecture/hcm/hcm_int_wall_2m_a_glass_cell"/>
+		<unit path="units/payday2/props/hcm_prop_int_spawned_glass/hcm_prop_int_spawned_glass"/>
+		<object path="units/payday2/props/hcm_prop_int_spawned_glass/hcm_prop_int_spawned_glass"/>
+		<material_config path="units/payday2/props/hcm_prop_int_spawned_glass/hcm_prop_int_spawned_glass"/>
+		<sequence_manager path="units/payday2/props/hcm_prop_int_spawned_glass/hcm_prop_int_spawned_glass"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/hcm/hcm_int_wall_025m_cap_a_wood" type="unit">
+		<material_config path="units/payday2/architecture/hcm/hcm_int"/>
+		<object path="units/payday2/architecture/hcm/hcm_int_wall_025m_cap_a_wood"/>
+		<unit path="units/payday2/architecture/hcm/hcm_int_wall_025m_cap_a_wood"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/hcm/hcm_int_wall_025m_cap_a_metal" type="unit">
+		<material_config path="units/payday2/architecture/hcm/hcm_int"/>
+		<object path="units/payday2/architecture/hcm/hcm_int_wall_025m_cap_a_metal"/>
+		<unit path="units/payday2/architecture/hcm/hcm_int_wall_025m_cap_a_metal"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_barista_counters/com_prop_barista_table_b_50" type="unit">
+		<material_config path="units/payday2/props/com_prop_barista_counters/com_prop_barista_counters"/>
+		<object path="units/payday2/props/com_prop_barista_counters/com_prop_barista_table_b_50"/>
+		<unit path="units/payday2/props/com_prop_barista_counters/com_prop_barista_table_b_50"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_barista_counters/com_prop_barista_table_a_50" type="unit">
+		<material_config path="units/payday2/props/com_prop_barista_counters/com_prop_barista_counters"/>
+		<object path="units/payday2/props/com_prop_barista_counters/com_prop_barista_table_a_50"/>
+		<unit path="units/payday2/props/com_prop_barista_counters/com_prop_barista_table_a_50"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" type="unit">
+		<material_config path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table"/>
+		<object path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table"/>
+		<unit path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_barista_table_small/com_prop_barista_table_small" type="unit">
+		<material_config path="units/payday2/props/com_prop_barista_table_small/com_prop_barista_table_small"/>
+		<object path="units/payday2/props/com_prop_barista_table_small/com_prop_barista_table_small"/>
+		<unit path="units/payday2/props/com_prop_barista_table_small/com_prop_barista_table_small"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_barista_table_large/com_prop_barista_table_large" type="unit">
+		<material_config path="units/payday2/props/com_prop_barista_table_large/com_prop_barista_table_large"/>
+		<object path="units/payday2/props/com_prop_barista_table_large/com_prop_barista_table_large"/>
+		<unit path="units/payday2/props/com_prop_barista_table_large/com_prop_barista_table_large"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_club_table_bar/com_prop_club_table_bar_short" type="unit">
+		<material_config path="units/payday2/props/com_prop_club_table_bar/com_prop_club_table_bar"/>
+		<object path="units/payday2/props/com_prop_club_table_bar/com_prop_club_table_bar_short"/>
+		<unit path="units/payday2/props/com_prop_club_table_bar/com_prop_club_table_bar_short"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_club_table_bar/com_prop_club_table_bar_tall" type="unit">
+		<material_config path="units/payday2/props/com_prop_club_table_bar/com_prop_club_table_bar"/>
+		<object path="units/payday2/props/com_prop_club_table_bar/com_prop_club_table_bar_tall"/>
+		<unit path="units/payday2/props/com_prop_club_table_bar/com_prop_club_table_bar_tall"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_table_04" type="unit">
+		<material_config path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic"/>
+		<object path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_table_04"/>
+		<unit path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_table_04"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/lxa_prop_balcony_table_large/lxa_prop_balcony_table_large" type="unit">
+		<material_config path="units/payday2/props/lxa_prop_balcony_table_large/lxa_prop_balcony_table_large"/>
+		<object path="units/payday2/props/lxa_prop_balcony_table_large/lxa_prop_balcony_table_large"/>
+		<unit path="units/payday2/props/lxa_prop_balcony_table_large/lxa_prop_balcony_table_large"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/lxa_prop_kitchen_table_long/lxa_prop_kitchen_table_long" type="unit">
+		<material_config path="units/payday2/props/lxa_prop_kitchen_table_long/lxa_prop_kitchen_table_long"/>
+		<object path="units/payday2/props/lxa_prop_kitchen_table_long/lxa_prop_kitchen_table_long"/>
+		<unit path="units/payday2/props/lxa_prop_kitchen_table_long/lxa_prop_kitchen_table_long"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/lxa_prop_livingroom_table_coffee/lxa_prop_livingroom_table_coffee" type="unit">
+		<material_config path="units/payday2/props/lxa_prop_livingroom_table_coffee/lxa_prop_livingroom_table_coffee"/>
+		<object path="units/payday2/props/lxa_prop_livingroom_table_coffee/lxa_prop_livingroom_table_coffee"/>
+		<unit path="units/payday2/props/lxa_prop_livingroom_table_coffee/lxa_prop_livingroom_table_coffee"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat_table_rectangular" type="unit">
+		<material_config path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat"/>
+		<object path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat_table_rectangular"/>
+		<unit path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat_table_rectangular"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat_table_square" type="unit">
+		<material_config path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat"/>
+		<object path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat_table_square"/>
+		<unit path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat_table_square"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_conference_table_dark" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_dark"/>
+		<object path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_conference_table_dark"/>
+		<unit path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_conference_table_dark"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_conference_table_solid_wenge" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_wenge"/>
+		<object path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_conference_table_solid_wenge"/>
+		<unit path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_conference_table_solid_wenge"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_conference_table_zebra" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_zebra"/>
+		<object path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_conference_table_zebra"/>
+		<unit path="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_conference_table_zebra"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/res_prop_kitchen_table_a_long_worn_grime/res_prop_kitchen_table_a_long_worn_grime" type="unit">
+		<material_config path="units/payday2/props/res_prop_kitchen_table_a_long_worn_grime/res_prop_kitchen_table_a_long_worn_grime"/>
+		<object path="units/payday2/props/res_prop_kitchen_table_a_long_worn_grime/res_prop_kitchen_table_a_long_worn_grime"/>
+		<unit path="units/payday2/props/res_prop_kitchen_table_a_long_worn_grime/res_prop_kitchen_table_a_long_worn_grime"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/res_prop_kitchen_table_cloth/res_prop_kitchen_table_cloth" type="unit">
+		<material_config path="units/payday2/props/res_prop_kitchen_table_cloth/res_prop_kitchen_table_cloth"/>
+		<object path="units/payday2/props/res_prop_kitchen_table_cloth/res_prop_kitchen_table_cloth"/>
+		<unit path="units/payday2/props/res_prop_kitchen_table_cloth/res_prop_kitchen_table_cloth"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/res_prop_kitchen_table_d_long_worn_clean/res_prop_kitchen_table_d_long_worn_clean" type="unit">
+		<material_config path="units/payday2/props/res_prop_kitchen_table_d_long_worn_clean/res_prop_kitchen_table_d_long_worn_clean"/>
+		<object path="units/payday2/props/res_prop_kitchen_table_d_long_worn_clean/res_prop_kitchen_table_d_long_worn_clean"/>
+		<unit path="units/payday2/props/res_prop_kitchen_table_d_long_worn_clean/res_prop_kitchen_table_d_long_worn_clean"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/res_prop_livingroom_table_modern/res_prop_livingroom_table_modern" type="unit">
+		<material_config path="units/payday2/props/res_prop_livingroom_table_modern/res_prop_livingroom_table_modern"/>
+		<object path="units/payday2/props/res_prop_livingroom_table_modern/res_prop_livingroom_table_modern"/>
+		<unit path="units/payday2/props/res_prop_livingroom_table_modern/res_prop_livingroom_table_modern"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_construction_portable_compressor/str_prop_construction_portable_compressor" type="unit">
+		<material_config path="units/payday2/props/str_prop_construction_portable_compressor/str_prop_construction_portable_compressor"/>
+		<object path="units/payday2/props/str_prop_construction_portable_compressor/str_prop_construction_portable_compressor"/>
+		<unit path="units/payday2/props/str_prop_construction_portable_compressor/str_prop_construction_portable_compressor"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_barista_counters/com_prop_barista_table_window_300_a" type="unit">
+		<material_config path="units/payday2/props/com_prop_barista_counters/com_prop_barista_counters"/>
+		<object path="units/payday2/props/com_prop_barista_counters/com_prop_barista_table_window_300_a"/>
+		<unit path="units/payday2/props/com_prop_barista_counters/com_prop_barista_table_window_300_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/lxa_prop_balcony_table_small/lxa_prop_balcony_table_small" type="unit">
+		<material_config path="units/payday2/props/lxa_prop_balcony_table_small/lxa_prop_balcony_table_small"/>
+		<object path="units/payday2/props/lxa_prop_balcony_table_small/lxa_prop_balcony_table_small"/>
+		<unit path="units/payday2/props/lxa_prop_balcony_table_small/lxa_prop_balcony_table_small"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_mill_pallet_assembly_table/ind_prop_mill_pallet_assembly_table" type="unit">
+		<material_config path="units/payday2/props/ind_prop_mill_pallet_assembly_table/ind_prop_mill_pallet_assembly_table"/>
+		<object path="units/payday2/props/ind_prop_mill_pallet_assembly_table/ind_prop_mill_pallet_assembly_table"/>
+		<unit path="units/payday2/props/ind_prop_mill_pallet_assembly_table/ind_prop_mill_pallet_assembly_table"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/lxa_prop_livingroom_table_small/lxa_prop_livingroom_table_small" type="unit">
+		<material_config path="units/payday2/props/lxa_prop_livingroom_table_small/lxa_prop_livingroom_table_small"/>
+		<object path="units/payday2/props/lxa_prop_livingroom_table_small/lxa_prop_livingroom_table_small"/>
+		<unit path="units/payday2/props/lxa_prop_livingroom_table_small/lxa_prop_livingroom_table_small"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat_side_table" type="unit">
+		<material_config path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat"/>
+		<object path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat_side_table"/>
+		<unit path="units/payday2/props/lxa_prop_terrace_loungeseat/lxa_prop_terrace_loungeseat_side_table"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/lxa_prop_hallway_lamp_table/lxa_prop_hallway_lamp_table" type="unit">
+		<material_config path="units/payday2/props/lxa_prop_hallway_lamp_table/lxa_prop_hallway_lamp_table"/>
+		<object path="units/payday2/props/lxa_prop_hallway_lamp_table/lxa_prop_hallway_lamp_table"/>
+		<sequence_manager path="units/payday2/props/lxa_prop_hallway_lamp_table/lxa_prop_hallway_lamp_table"/>
+		<unit path="units/payday2/props/lxa_prop_hallway_lamp_table/lxa_prop_hallway_lamp_table"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/are/are_off_int_wall_plastic_double_door" type="unit">
+		<material_config path="units/payday2/architecture/are/are_off_int"/>
+		<object path="units/payday2/architecture/are/are_off_int_wall_plastic_double_door"/>
+		<unit path="units/payday2/architecture/are/are_off_int_wall_plastic_double_door"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/are_int_double_door/are_int_double_door" type="unit">
+		<unit path="units/payday2/props/are_int_double_door/are_int_double_door"/>
+		<object path="units/payday2/props/are_int_double_door/are_int_double_door"/>
+		<material_config path="units/payday2/props/are_int_double_door/are_int_double_door"/>
+		<unit path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<effect load="true" path="effects/payday2/environment/drill"/>
+		<effect load="true" path="effects/payday2/environment/parts/drill_sparks_particles"/>
+		<effect load="true" path="effects/payday2/environment/parts/drill_sparks"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<gui path="guis/timer_gui"/>
+		<sequence_manager path="units/payday2/props/are_int_double_door/are_int_double_door"/>
 	</add>
 </table>

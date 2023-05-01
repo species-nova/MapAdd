@@ -70,16 +70,29 @@ local skies = {
 	"sky_city_clear",
 	"sky_city_clear_high",
 	"sky_cloudy_blue",
-	"sky_csgo_de_bank_cs15_daylight02",
+	"sky_csgo_de_bank_cs15_daylight02", 
 	"sky_dah_night",
 	"sky_v2_030_sun_low"
 }
 
-Hooks:Add("BeardLibPreProcessScriptData", "RestorationCreateEnvironment", function(PackManager, path, raw_data)
+Hooks:Add("BeardLibPreProcessScriptData", "MapAddCreateEnvironment", function(PackManager, path, raw_data)
     if managers.dyn_resource then
         for _, sky in ipairs(skies) do
             if not managers.dyn_resource:has_resource(Idstring("scene"), Idstring("core/environments/skies/" .. sky .. "/" .. sky), managers.dyn_resource.DYN_RESOURCES_PACKAGE) then
                 managers.dyn_resource:load(Idstring("scene"), Idstring("core/environments/skies/" .. sky .. "/" .. sky), managers.dyn_resource.DYN_RESOURCES_PACKAGE, nil)
+            end
+        end
+    end
+end)
+--stupid fucking additional functions to load the white house sky since it's not in the same folder as every other one
+local skies_wh = {
+	"sky_vit_thunderstorm"
+}
+Hooks:Add("BeardLibPreProcessScriptData", "MapAddWhiteHouseCreateEnvironment", function(PackManager, path, raw_data)
+    if managers.dyn_resource then
+        for _, sky in ipairs(skies_wh) do
+            if not managers.dyn_resource:has_resource(Idstring("scene"), Idstring("units/pd2_dlc_vit/environments/" .. sky .. "/" .. sky), managers.dyn_resource.DYN_RESOURCES_PACKAGE) then
+                managers.dyn_resource:load(Idstring("scene"), Idstring("units/pd2_dlc_vit/environments/" .. sky .. "/" .. sky), managers.dyn_resource.DYN_RESOURCES_PACKAGE, nil)
             end
         end
     end
