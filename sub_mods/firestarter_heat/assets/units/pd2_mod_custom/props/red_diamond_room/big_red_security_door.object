@@ -1,6 +1,6 @@
 <dynamic_object>
-    <diesel orientation_object="rp_big_red_security_door" materials="units/world/props/red_diamond_room/big_red_diamond_stand" />
-	<sequence_manager file="units/world/props/red_diamond_room/big_red_security_door" />
+    <diesel orientation_object="rp_big_red_security_door" materials="units/pd2_mod_custom/props/red_diamond_room/big_red_diamond_stand" />
+	<sequence_manager file="units/pd2_mod_custom/props/red_diamond_room/big_red_security_door" />
 	<animations>
 		<animation_group name="ag_open" enabled="false">
 			<object name="a_handle" />

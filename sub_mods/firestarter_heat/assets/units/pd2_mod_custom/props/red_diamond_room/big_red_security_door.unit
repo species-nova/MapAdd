@@ -1,5 +1,5 @@
 <unit type="static" slot="1" >
-    <object file="units/world/props/red_diamond_room/big_red_security_door" />
+    <object file="units/pd2_mod_custom/props/red_diamond_room/big_red_security_door" />
     <network sync="spawn"/>
   <extensions>
     <extension name="unit_data" class="ScriptUnitData" />
