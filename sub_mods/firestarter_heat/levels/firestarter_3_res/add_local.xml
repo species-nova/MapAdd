@@ -14,6 +14,9 @@
 	<continent path="editor_only/editor_only" script_data_type="binary"/>
 	<mission path="editor_only/editor_only" script_data_type="binary"/>
 	<cover_data path="cover_data" script_data_type="binary"/>
+	<texture path="cube_lights/103326"/>
+	<texture path="cube_lights/103336"/>
+	<texture path="cube_lights/103340"/>
 	<texture path="cube_lights/101819"/>
 	<texture path="cube_lights/105754"/>
 	<texture path="cube_lights/103258"/>
