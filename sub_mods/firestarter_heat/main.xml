@@ -35,6 +35,7 @@
 			<value_node value="levels/narratives/h_firestarter/stage_2/background/background"/>
 			<value_node value="levels/narratives/h_firestarter/stage_2/pc_only/pc_only"/>
 			<value_node value="levels/narratives/h_firestarter/stage_2/editor_only/editor_only"/>
+			<value_node value="packages/addbdu"/>
 		</packages>
 		<script_data_mods directory="scriptdata"/>
 	</level>
@@ -120,13 +121,13 @@
 			<value_node value="30000"/>
 		</min_mission_xp>
 		<payout>
-			<value_node value="7000"/>
-			<value_node value="9500"/>
-			<value_node value="12500"/>
-			<value_node value="20000"/>
-			<value_node value="25000"/>
-			<value_node value="25000"/>
-			<value_node value="25000"/>
+			<value_node value="70000"/>
+			<value_node value="95000"/>
+			<value_node value="125000"/>
+			<value_node value="200000"/>
+			<value_node value="250000"/>
+			<value_node value="250000"/>
+			<value_node value="250000"/>
 		</payout>
 	</narrative>
 </table>
