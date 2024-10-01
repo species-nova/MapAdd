@@ -8,5 +8,7 @@
 	<texture path="guis/dlcs/pro/textures/pd2/crimenet/firestarter_01"/>
 	<texture path="guis/dlcs/pro/textures/pd2/crimenet/rats_01"/>
 	<texture path="guis/dlcs/pro/textures/pd2/crimenet/fourstores"/>
+	<texture path="guis/dlcs/pro/textures/pd2/crimenet/undercover"/>
+	<texture path="guis/dlcs/pro/textures/pd2/crimenet/green_bridge"/>
 </AddFiles>
 </table>
