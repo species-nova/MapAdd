@@ -902,40 +902,4 @@
 		<gui path="guis/timer_gui"/>
 		<sequence_manager path="units/payday2/props/are_int_double_door/are_int_double_door"/>
 	</add>
-	<add from_db="true" path="units/payday2/equipment/gen_interactable_roadflare/gen_interactable_roadflare" type="unit">
-		<material_config path="units/payday2/equipment/gen_interactable_roadflare/gen_interactable_roadflare"/>
-		<object path="units/payday2/equipment/gen_interactable_roadflare/gen_interactable_roadflare"/>
-		<sequence_manager path="units/payday2/equipment/gen_interactable_roadflare/gen_interactable_roadflare"/>
-		<unit path="units/payday2/equipment/gen_interactable_roadflare/gen_interactable_roadflare"/>
-	</add>
-	<add from_db="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" type="unit">
-		<material_config path="core/material_configs/hub_elements"/>
-		<object path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m"/>
-		<unit path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m"/>
-	</add>
-	<add from_db="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" type="unit">
-		<material_config path="core/material_configs/hub_elements"/>
-		<object path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m"/>
-		<unit path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m"/>
-	</add>
-	<add from_db="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_64x3m" type="unit">
-		<material_config path="core/material_configs/hub_elements"/>
-		<object path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_64x3m"/>
-		<unit path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_64x3m"/>
-	</add>
-	<add from_db="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_8x3m" type="unit">
-		<material_config path="core/material_configs/hub_elements"/>
-		<object path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_8x3m"/>
-		<unit path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_8x3m"/>
-	</add>
-	<add from_db="true" path="units/world/architecture/diamondheist/helipad_roof" type="unit">
-		<material_config path="units/world/architecture/diamondheist/diamondheist"/>
-		<object path="units/world/architecture/diamondheist/helipad_roof"/>
-		<unit path="units/world/architecture/diamondheist/helipad_roof"/>
-	</add>
-	<add from_db="true" path="units/pd2_dlc_berry/architecture/bry_helipads/bry_helipad_01" type="unit">
-		<unit path="units/pd2_dlc_berry/architecture/bry_helipads/bry_helipad_01"/>
-		<object path="units/pd2_dlc_berry/architecture/bry_helipads/bry_helipad_01"/>
-		<material_config path="units/pd2_dlc_berry/architecture/bry_helipads/bry_helipad"/>
-	</add>
 </table>
